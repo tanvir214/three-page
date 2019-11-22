@@ -179,6 +179,16 @@ footer p {
 
 
 		/*contact*/
+.contact-nav ul li{
+	color: #99bfcb;
+}
+
+.contact-nav ul li a{
+	color: #99bfcb;
+}
+
+
+
 .contact {
 	background: #ee4a3f;
 	color: #ffff;
@@ -246,6 +256,16 @@ footer p {
 
 
 	/*about*/
+.about-header{
+	background: #ffffff;
+}
+
+hr {
+	background: #e4e4e4;
+    padding: 3px 0;
+    margin: 0px;
+}
+
 .about-contant {
 }
 
